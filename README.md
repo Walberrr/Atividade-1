@@ -1,2 +1,2 @@
 # Atividade-1
-Respositório para a atividade de React.
+Repositório para a atividade de React.
